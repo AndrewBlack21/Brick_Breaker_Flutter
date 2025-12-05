@@ -1,0 +1,1 @@
+ C:\\Users\\andre\\OneDrive\\Documentos\\VSCODE\\Flutter\\brick_breaker\\.dart_tool\\widget_preview_scaffold\\build\\708c72661d9d2fb699449c0bb037e1bd\\dart_build_result.json: 
